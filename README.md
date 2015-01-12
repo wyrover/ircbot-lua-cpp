@@ -1,4 +1,4 @@
 ircbot-core
 ===========
 
-The C++ IRC bot for Haruhichan, WIP and incomplete
+The C++ IRC bot with lua bindings, broken because I forgot to fix threading
